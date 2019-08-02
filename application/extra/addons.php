@@ -8,6 +8,10 @@ return array (
     array (
       0 => 'clicaptcha',
     ),
+    'express_query' => 
+    array (
+      0 => 'express',
+    ),
     'user_sidenav_after' => 
     array (
       0 => 'invite',
