@@ -4,6 +4,10 @@ return array (
   'autoload' => false,
   'hooks' => 
   array (
+    'action_begin' => 
+    array (
+      0 => 'clicaptcha',
+    ),
     'user_sidenav_after' => 
     array (
       0 => 'invite',

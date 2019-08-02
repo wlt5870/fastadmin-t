@@ -1,5 +1,4 @@
-define([], function () {
-    require.config({
+require.config({
     paths: {
         'clicaptcha': '../addons/clicaptcha/js/clicaptcha'
     },
@@ -45,6 +44,4 @@ require(['clicaptcha'], function () {
         }
     };
     clicaptcha($("input[name=captcha]"));
-});
-
 });
