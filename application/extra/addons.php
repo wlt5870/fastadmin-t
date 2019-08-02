@@ -40,6 +40,14 @@ return array (
     array (
       0 => 'qcloudsms',
     ),
+    'upload_config_init' => 
+    array (
+      0 => 'ucloud',
+    ),
+    'upload_delete' => 
+    array (
+      0 => 'ucloud',
+    ),
   ),
   'route' => 
   array (
