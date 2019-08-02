@@ -8,6 +8,10 @@ return array (
     array (
       0 => 'clicaptcha',
     ),
+    'app_init' => 
+    array (
+      0 => 'epay',
+    ),
     'express_query' => 
     array (
       0 => 'express',
