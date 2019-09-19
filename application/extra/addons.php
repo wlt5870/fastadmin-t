@@ -19,6 +19,7 @@ return array (
     'user_sidenav_after' => 
     array (
       0 => 'invite',
+      1 => 'withdraw',
     ),
     'user_register_successed' => 
     array (

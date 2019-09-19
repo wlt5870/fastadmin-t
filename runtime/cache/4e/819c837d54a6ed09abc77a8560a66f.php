@@ -1,4 +1,4 @@
 <?php
 //000000000000
  exit();?>
-a:1:{s:11:"leesignhook";a:1:{i:0;s:23:"\addons\leesign\Leesign";}}
+a:12:{s:12:"action_begin";a:1:{i:0;s:29:"\addons\clicaptcha\Clicaptcha";}s:8:"app_init";a:1:{i:0;s:17:"\addons\epay\Epay";}s:13:"express_query";a:1:{i:0;s:23:"\addons\express\Express";}s:18:"user_sidenav_after";a:2:{i:0;s:21:"\addons\invite\Invite";i:1;s:25:"\addons\withdraw\Withdraw";}s:23:"user_register_successed";a:1:{i:0;s:21:"\addons\invite\Invite";}s:11:"leesignhook";a:1:{i:0;s:23:"\addons\leesign\Leesign";}s:11:"config_init";a:1:{i:0;s:27:"\addons\qcloudsms\Qcloudsms";}s:8:"sms_send";a:1:{i:0;s:27:"\addons\qcloudsms\Qcloudsms";}s:10:"sms_notice";a:1:{i:0;s:27:"\addons\qcloudsms\Qcloudsms";}s:9:"sms_check";a:1:{i:0;s:27:"\addons\qcloudsms\Qcloudsms";}s:18:"upload_config_init";a:1:{i:0;s:21:"\addons\ucloud\Ucloud";}s:13:"upload_delete";a:1:{i:0;s:21:"\addons\ucloud\Ucloud";}}
